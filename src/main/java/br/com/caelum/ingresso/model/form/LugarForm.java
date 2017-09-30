@@ -14,6 +14,7 @@ public class LugarForm {
 
     @NotBlank
     private String fileira;
+    
     @NotNull
     private Integer posicao;
     private Integer salaId;
